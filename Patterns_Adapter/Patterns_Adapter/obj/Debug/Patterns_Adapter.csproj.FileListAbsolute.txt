@@ -1,0 +1,7 @@
+C:\Users\Woody\Desktop\Study\Patterns_Adapter\Patterns_Adapter\bin\Debug\Patterns_Adapter.exe.config
+C:\Users\Woody\Desktop\Study\Patterns_Adapter\Patterns_Adapter\bin\Debug\Patterns_Adapter.exe
+C:\Users\Woody\Desktop\Study\Patterns_Adapter\Patterns_Adapter\bin\Debug\Patterns_Adapter.pdb
+C:\Users\Woody\Desktop\Study\Patterns_Adapter\Patterns_Adapter\obj\Debug\Patterns_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Woody\Desktop\Study\Patterns_Adapter\Patterns_Adapter\obj\Debug\Patterns_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Woody\Desktop\Study\Patterns_Adapter\Patterns_Adapter\obj\Debug\Patterns_Adapter.exe
+C:\Users\Woody\Desktop\Study\Patterns_Adapter\Patterns_Adapter\obj\Debug\Patterns_Adapter.pdb
